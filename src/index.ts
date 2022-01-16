@@ -10,5 +10,5 @@ app.use(router); //Load routes
 
 app.listen(3000)//Start app
 
-
+export {app}
 
